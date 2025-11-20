@@ -95,7 +95,7 @@ Material:
     - _SphereOffset: 0
     - _SphereStrength: 104.6
     - _Test: 3.8
-    - _TimeProgress: 1.3291566
+    - _TimeProgress: 1.5086305
     - _TwirlStrength: 45.49
     - _UVMult: 85.26
     m_Colors:
@@ -103,7 +103,7 @@ Material:
     - _GlowHighlight: {r: 0.11725056, g: 0.6601225, b: 1, a: 1}
     - _InnerDistortionTint: {r: 0, g: 1.0022125, b: 2, a: 1}
     - _InnerTint: {r: 0, g: 0.26063824, b: 1, a: 1}
-    - _SphereCenter: {r: 0.70754725, g: 0.75119805, b: 0, a: 0}
+    - _SphereCenter: {r: 0.72898805, g: 0.50998396, b: 0, a: 0}
     - _SphereOffset: {r: 0, g: 0, b: 0, a: 0}
     - _SphereStrength: {r: 10, g: 10, b: 0, a: 0}
   m_BuildTextureStacks: []

@@ -687,7 +687,7 @@ MonoBehaviour:
   explosionTransform: {fileID: 1576554261}
   burstCount: 100
   rippleMat: {fileID: 2100000, guid: 4a87b3e126e6bcb43acf2ded43d46713, type: 2}
-  rippleStart: -0.1
+  rippleStart: -0.4
   rippleEnd: 3
   rippleDuration: 4
   sceneCam: {fileID: 1436925725}
